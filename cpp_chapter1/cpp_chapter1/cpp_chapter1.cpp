@@ -7,6 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 }
+// 2020/10/17 ²âÊÔ
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
